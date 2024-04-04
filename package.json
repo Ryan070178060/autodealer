@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js", // Command to start the backend server
+    "build": "npm run build --prefix frontend" // Command to build the frontend (change "frontend" to the actual directory name of your frontend)
   },
   "author": "",
   "license": "ISC",
