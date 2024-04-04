@@ -1,0 +1,6 @@
+[submodule "car-ecommerce"]
+	path = car-ecommerce
+	url = https://github.com/Ryan070178060/car-ecommerce.git
+[submodule "car_backend"]
+	path = car_backend
+	url = https://github.com/Ryan070178060/car_backend.git
