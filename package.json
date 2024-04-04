@@ -5,7 +5,7 @@
   "main": "car_backend/index.js",
   "scripts": {
     "start": "node car_backend/index.js",
-    "build": "cd car_ecommerce && npm install && npm run build"
+    "build": "cd car-ecommerce && npm install && npm run build"
   },
   "author": "",
   "license": "ISC",
