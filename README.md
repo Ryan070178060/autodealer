@@ -36,5 +36,5 @@ This Auto Dealer Website is a comprehensive platform for selling cars, built wit
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/auto-dealer-website.git
+   git clone https://github.com/Ryan070178060/auto-dealer-website.git
    cd auto-dealer-website
